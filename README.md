@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)]()\
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-red)]()\
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-Face_Detection-orange)]()\
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-Face_Detection-orange)]()
 
 Небольшой утилитарный скрипт, который в реальном времени размывает лицо
 с веб-камеры. Использует MediaPipe для детекции и OpenCV для обработки
